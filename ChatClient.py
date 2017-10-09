@@ -1,3 +1,9 @@
+"""
+CSC376 Assignment 3 - Chat
+Server
+Michael Skiles
+"""
+
 import threading
 import sys
 import os
